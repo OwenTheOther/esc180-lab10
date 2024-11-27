@@ -51,7 +51,7 @@ def split_list(L, S):
 if __name__ == "__main__":
     print(power(2, 3))
     print(sum_digits("123"))
-    print(split_list([1, 2, 6, 4, 5, 3, 7], [3, 6]))
+    print(split_list([1, 2, 6, 4, 5, 3, 7], [3, 6])) 
 
 
         
